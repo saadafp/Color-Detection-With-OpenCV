@@ -4,7 +4,7 @@ In this repo I use openCV to detect traffic light colors.
 # 🚦 Traffic Light Color Detection with OpenCV
 
 This project detects traffic light colors — **Red**, **Yellow**, and **Green** — in a video using OpenCV. When a green light is detected, the script overlays a message `"Green : GO!"` on the video. The processed video is saved as a new file.
-The link to the dataset is : https://pixabay.com/videos/search/traffic%20lights/?utm_source=chatgpt.com
+Dataset link : https://pixabay.com/videos/search/traffic%20lights/?utm_source=chatgpt.com
 
 ## 🎯 Features
 
