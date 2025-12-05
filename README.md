@@ -29,6 +29,7 @@ Install the required Python libraries:
 
 ```bash
 pip install opencv-python numpy pillow
+```
 
 ## Media / Footage License
 
