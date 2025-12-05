@@ -30,3 +30,9 @@ Install the required Python libraries:
 ```bash
 pip install opencv-python numpy pillow
 
+## Media / Footage License
+
+The traffic‑lights video used in this project was obtained from Pixabay under the Pixabay Content License.  
+
+
+
